@@ -1,0 +1,12 @@
+.container{
+    border-width: 5px;
+    border-color: green yellowgreen;
+    border-style: solid;
+    border-radius: 20px;
+
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    background: red;
+}
